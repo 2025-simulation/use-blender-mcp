@@ -1,1 +1,1 @@
-# use-blender-mcp-
+# use-blender-mcp
