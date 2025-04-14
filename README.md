@@ -5,7 +5,7 @@
 ###  2.选择一个具有函数调用功能的AI（有扳手🔧图标）![](https://github.com/2025-simulation/use-blender-mcp/blob/main/images/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202025-04-15%20000006.png)然后启用mcp![](https://github.com/2025-simulation/use-blender-mcp/blob/main/images/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202025-04-14%20235637.png)
 ### 3.配置blender插件 需要下载addon.py 在文件里有，来自https://github.com/ahujasid/blender-mcp/blob/main/addon.py 在blender内添加插件的步骤不再赘述
 ### 4.在blender内启用mcp ![](https://github.com/2025-simulation/use-blender-mcp/blob/main/images/start2025-04-15%20001306.png)另外，这里的两个选项是选择性的，使用后会调用Hyper 3D的api，当然api也先需要输入到上面的交互框内。
-### 5.当这一切都准备好后，就可以在cherry studio中输入自然语言以生成blender模型了。
+### 5.当这一切都准备好后，就可以在cherry studio中输入自然语言以生成blender模型了。成果展示![](https://github.com/2025-simulation/use-blender-mcp/blob/main/images/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202025-04-09%20232846.png)
 ## 参考材料 
 ### https://github.com/ahujasid/blender-mcp 这是使用blenderMCP的具体配置环境，那个py插件也是他做的
 ### https://github.com/modelcontextprotocol/servers这里有各种各样的mcp
