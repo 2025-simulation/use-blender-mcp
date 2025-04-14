@@ -8,4 +8,4 @@
 ### 5.当这一切都准备好后，就可以在cherry studio中输入自然语言以生成blender模型了。成果展示![](https://github.com/2025-simulation/use-blender-mcp/blob/main/images/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202025-04-09%20232846.png)
 ## 参考材料 
 ### https://github.com/ahujasid/blender-mcp 这是使用blenderMCP的具体配置环境，那个py插件也是他做的
-### https://github.com/modelcontextprotocol/servers这里有各种各样的mcp
+### https://github.com/modelcontextprotocol/servers 这里有各种各样的mcp
